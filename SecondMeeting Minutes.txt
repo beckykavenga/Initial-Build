@@ -1,0 +1,45 @@
+Second Meeting
+Date: 26/07
+Location: R block
+Members Present: Daniel, Becky, George, Vlad
+
+1:00
+	- Going over what was discussed in yesterdays meeting (25th)
+	- Talking about potential design
+		Select Court > Date > (Time?)
+
+1:06
+	Project Plan
+		This week 4( 23 - 29 )
+			Plan
+
+1:13		Next Week 5( 30 - 5 )
+			have prototype of phone application built and run by client
+
+		Week 6-7
+			Work to implement feedback given by client
+
+		Week 8-9 
+			API back end (2 weeks)
+		
+		Week 10-14
+			Website , Finalize (4 weeks)
+
+	**Need to choose a backend database
+	**Need to choose an API
+
+1:17
+	Weekly meeting time discussion
+	Vlad is always working 
+	
+	Friday 5-6 is meeting time that was decided
+
+1:24
+	Github and scrum master
+	-Account for git
+	-Account for chello
+	-Daniel Scrum master
+	-write up minutes for others to see
+
+1:26 Amarjot arrives
+1:27 Meeting conclusion
