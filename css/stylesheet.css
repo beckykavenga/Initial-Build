@@ -1,0 +1,19 @@
+/*Custom Stylesheet*/
+body {
+    background:#FFF;
+    padding-top:8%;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #b20;
+}
+
+img {
+    width: 30%;
+}
+
+input[type="submit"]{
+    padding: 10px;
+    width: 50%;
+}
